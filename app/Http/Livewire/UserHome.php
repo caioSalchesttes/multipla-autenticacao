@@ -12,7 +12,7 @@ class UserHome extends Component
 
     public function carregar()
     {
-        $this->count += 1;
+        $this->count += 2;
 
     }
 
