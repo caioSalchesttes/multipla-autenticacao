@@ -27,7 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d0e3d174-18a9-497a-8222-b65143683700" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/UserHome.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/UserHome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/UserHome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/user-home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/usuario/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/usuario/home/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/View/Components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -231,6 +233,9 @@
       <workItem from="1618083344169" duration="89000" />
       <workItem from="1618083447920" duration="302000" />
       <workItem from="1618083765935" duration="120000" />
+      <workItem from="1618083900774" duration="713000" />
+      <workItem from="1618084674326" duration="33000" />
+      <workItem from="1618085331060" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1">
       <created>1618083610898</created>
@@ -239,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618083610898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comit 1dev">
+      <created>1618083922770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618083922770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,9 +283,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="comit 1dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit 1dev" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1618084706121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618084706121" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1618070030117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -282,9 +299,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618083433645" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1618083641796">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1618083930529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618083641796" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618083930529" />
   </component>
 </project>
